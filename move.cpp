@@ -11,7 +11,7 @@ int main(){
   if(adc_reading < threshold>{
     reverse(500);
   }
-
+  return 0;
 }
 
 //Drives robot straight
