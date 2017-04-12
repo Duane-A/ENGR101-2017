@@ -1,6 +1,6 @@
-include <stdio.h>
-include <time.h>
-include "ECS100"
+#include <stdio.h>
+#include <time.h>
+#include "ECS100"
 
 int main(){
   init();
